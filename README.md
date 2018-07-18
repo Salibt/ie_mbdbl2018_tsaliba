@@ -1,6 +1,6 @@
-# pythonpackagesample
+# ie_mbdbl2018_tsaliba
 This is a simple minimal set of codes to create a Python Package
 
 TEST PUSHING...
 ...
-"# pythonpackagesample" 
+"# ie_mbdbl2018_tsaliba" 
